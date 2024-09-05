@@ -17,6 +17,7 @@
   "description": "Food recipe application",
   "dependencies": {
     "@parcel/watcher": "^2.4.1",
+    "@swc/core": "^1.7.23",
     "core-js": "^3.38.1",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
